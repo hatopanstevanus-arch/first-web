@@ -1,4 +1,5 @@
 daftar content web yg akan dibuat:
 1. biodata
 2. skill
-3. cv
+3. background pendidikan
+4. target kedepam
